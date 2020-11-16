@@ -1,4 +1,4 @@
-## Hola, I'm [Nafees Fatima!]((https://github.com/nafteeq) 👋
+## Hola, I'm Nafees Fatima! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafteeq&label=Views&color=blue&style=plastic" alt="nafteeq" /> </p>
 
