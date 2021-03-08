@@ -23,8 +23,7 @@
 <br/>
 
 
-- 🔭 I’m currently looking for a job in Full Stack Development
-- 🌱 I’m currently learning about more Technologies & languages(JavaScript, CSS, HTML,MySQL)
+- 🔭 Hi folks,I am a Software Engineer-Full Stack 
 - 😄 Pronouns: She/Her
 - [![Linkedin: imthepk](https://img.shields.io/badge/-Nafees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafees-fatima-869253117)](https://www.linkedin.com/in/nafees-fatima-869253117)
 [![GitHub iampawan](https://img.shields.io/github/followers/nafteeq?label=follow&style=social)](https://github.com/nafteeq)
